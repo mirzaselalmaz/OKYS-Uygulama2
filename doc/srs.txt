@@ -1,0 +1,5 @@
+OKYS - Otomasyon Kutuphane Yonetim Sistemi Gereksinim Notu:
+1. Kutuphanede kitap tanimlari (ad, yazar, isbn) sisteme kaydedilir.
+2. Her kitabin kutuphanede fiziksel kopyalari bulunur.
+3. Kullanici mevcut kopyalari odunc alabilir veya iade edebilir.
+4. Oduncte olan bir kopya baska birine tekrar verilemez.
